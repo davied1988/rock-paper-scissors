@@ -5,5 +5,5 @@ if(
 )
 
 const person = {
-    name: 'Brad'
+    name: 'Bradek'
 };
